@@ -16,6 +16,13 @@ Angular JS Framework
 
 #Data binding in AngularJS is the synchronization between the model and the view.
 
+#AngularJS Controllers
+1.AngularJS applications are controlled by controllers.
+2.The ng-controller directive defines the application controller.
+3.A controller is a JavaScript Object, created by a standard JavaScript object constructor.
+
+
+
 #AngularJS Services
 1.A service is a function, or object, that is available for, and limited to, your AngularJS application.
 2.AngularJS has about 30 built-in services. One of them is the $location service.
